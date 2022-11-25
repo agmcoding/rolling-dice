@@ -15,7 +15,7 @@ The response is a map that shows the number of rolls from each dice value.
 4. To see the "dice roll order", check in the address  localhost:8080/rolling-dice/dice-roll-order  . 
 5. That's it =D
 
-## Which tools are been used
+## Which tools are being used
 
 This project uses Java 17 version, Spring Boot, Spring Web, Maven, and other libraries and frameworks. 
 
